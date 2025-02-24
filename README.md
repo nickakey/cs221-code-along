@@ -1,5 +1,7 @@
-This is basically a step-by step and simplified code along to go along with this stanford lecture
+# Stanford Lecture Code-Along
 
-https://www.youtube.com/watch?v=nEWNNt2KmfQ
+This repository contains a simplified, step-by-step python notebook designed to help you follow along with [this Stanford lecture](https://www.youtube.com/watch?v=nEWNNt2KmfQ).
 
-I had a lot of trouble understanding it, so I hope this helps!
+I had a lot of trouble understanding the lecture at first, so I created these notes and code samples to make the content more accessible.
+
+It's vanilla so no external python libraries required
